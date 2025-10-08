@@ -51,7 +51,7 @@ With time, the system learns personal baselines and flags early deviations befor
 
 🔒 Privacy Controls & Data Ownership
 
-💬 Taglines (choose one for your presentation)
+💬 Taglines:
 
 “Every heartbeat matters.”
 
