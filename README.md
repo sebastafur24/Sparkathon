@@ -1,13 +1,5 @@
 # Sparkathon
-🩺 Product Name Ideas (choose one — all are strong)
-Name	Meaning & Feel
-HeartLink	Connects hearts — between elderly and their loved ones. Emotional + techy.
-PulseGuard	Protects the pulse — simple, powerful, and safety-focused.
-CarePulse	Care + pulse = warmth + monitoring. Perfect balance of empathy and tech.
-VitaBand	Vita = life — “Band for life.” Elegant and global-sounding.
-Sentra	From “Sentinel” — guardian that senses. Short, premium, future-ready.
-
-👉 Recommendation: PulseGuard (clear, safety + heart focus).
+🩺 PulseGuard
 
 💡 Product Description
 
