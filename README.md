@@ -1,5 +1,4 @@
-# Sparkathon
-🩺 PulseGuard
+# Sparkathon: 🩺 PulseGuard
 
 💡 Product Description
 
